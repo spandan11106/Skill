@@ -54,3 +54,6 @@ w = w - alpha * dW
 b = b - alpha * db
 
 ```
+
+
+[[Neural Network]]
