@@ -46,4 +46,4 @@ $$ $$A^{[1]} =
 a^{[1](1)} & a^{[1](2)} & ... & a^{[1](m)} \\
 | & | & ... & |
 \end{bmatrix}
-$$ [[Activation functions]] [[Gradient Descent]] [[Random Initialisation]] [[Deep L-layer Neural Network]]  [[Train-dev-test sets]]  
+$$ [[Activation functions]] [[Gradient Descent]] [[Random Initialisation]] [[Deep L-layer Neural Network]]  [[Practical Aspects of DL]]  

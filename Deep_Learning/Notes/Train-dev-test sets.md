@@ -1,1 +1,0 @@
-In we have a small dataset then it is reasonable to do a `60-20-20` split of the data. We use the `60%` data for training and `20%` for dev testing. If your model after multiple iterations performs well on the dev set then we test it on the test of the `20%` data called the test set. 
