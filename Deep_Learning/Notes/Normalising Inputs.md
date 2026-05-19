@@ -5,3 +5,5 @@ $$\sigma^2 = \frac{1}{m}\sum_{i = 1}^{m} (x^{(i)})^2 \ \ \ \ \ \ \ \ \ \ \ \ x =
 ![[Pasted image 20260515163743.png]]
 
 To run gradient descent on unnormalised data we will have to use it small learning rate so that it does not oscillate.   
+
+[[Batch Norm]] 

@@ -1,0 +1,3 @@
+If our mini-batch size is smaller, the initial training example guide gradient descent in the right direction, but the subsequent steps might be noisy. Hence initially we want to take larger steps and as we approach the minimum, we want to take smaller steps. 
+
+1 epoch = 1 pass through the training set. $$\alpha = \frac{1}{1 + \text{decay-rate}*\text{epoch number}}\alpha_0$$ $$\alpha = (0.95)^{epoch \ number}\alpha_0$$ We could use other techniques also. 
