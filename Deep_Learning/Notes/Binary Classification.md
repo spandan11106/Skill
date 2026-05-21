@@ -56,4 +56,4 @@ b = b - alpha * db
 ```
 
 
-[[Neural Network]]
+[[Neural Network]] [[Multi-Class Classification]] 
