@@ -1,1 +1,1 @@
-A repo to track my progress. Notes are made in obsidian
+A deprecated personal repository originally used for tracking progress and storing notes made in Obsidian. It is no longer receiving commits, as I have transitioned to using a [digital garden](https://spandan11106.github.io/) for this purpose.
